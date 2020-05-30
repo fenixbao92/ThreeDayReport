@@ -15,7 +15,7 @@ DoubleRecording 框架介绍
 5. 自定义的轻量级事件处理框架。
 
 ## 三.工程结构
-![](https://github.com/Issacw0ng/SwipeBackLayout/blob/master/art/screenshot.png?raw=true)
+![](https://github.com/fenixbao92/ThreeDayReport/blob/master/3/pic/WechatIMG8.jpeg)
 
 ## 四.外部依赖
 1. 'me.imid.swipebacklayout.lib:library:1.1.0'  Activity右划退出库
@@ -38,4 +38,5 @@ DoubleRecording 框架介绍
 
 ## 六.下一步
    我拟调研下openCV我大概搜了下跟我们貌似有点关系
-
+![](https://github.com/fenixbao92/ThreeDayReport/blob/master/3/pic/WechatIMG6.jpeg)
+![](https://github.com/fenixbao92/ThreeDayReport/blob/master/3/pic/WechatIMG7.jpeg)
